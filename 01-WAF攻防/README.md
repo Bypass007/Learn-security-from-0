@@ -16,19 +16,19 @@
 
 - 第一章：WAF Bypass技巧
 
-  - 第1篇：WAF Bypass的各种特性和技巧（服务器、应用层、WAF层特性）
+  - 第01篇：WAF Bypass的各种特性和技巧（服务器、应用层、WAF层特性）
 
-  - 第2篇：Mysql数据库特性
-  - 第3篇：SQL Server数据库特性
-  - 第4篇：Oracle数据库特性
-  - 第5篇：Access 数据库特性
+  - 第02篇：Mysql数据库特性
+  - 第03篇：SQL Server数据库特性
+  - 第04篇：Oracle数据库特性
+  - 第05篇：Access 数据库特性
 
 - 第二章：WAF Bypass实战
 
-  - 第6篇：Bypass D盾_IIS防火墙SQL注入防御（多姿势）
-  - 第7篇：Bypass 360主机卫士SQL注入防御（多姿势）
-  - 第8篇：Bypass ngx_lua_waf SQL注入防御（多姿势）
-  - 第9篇：Bypass X-WAF SQL注入防御（多姿势）
+  - 第06篇：Bypass D盾_IIS防火墙SQL注入防御（多姿势）
+  - 第07篇：Bypass 360主机卫士SQL注入防御（多姿势）
+  - 第08篇：Bypass ngx_lua_waf SQL注入防御（多姿势）
+  - 第09篇：Bypass X-WAF SQL注入防御（多姿势）
   - 第10篇：Bypass 护卫神SQL注入防御（多姿势）
   - 番外篇：打破基于OpenResty的WEB安全防护
 
